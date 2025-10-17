@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Google Drive API credentials and tokens
+token.pickle
+client_secret_*.json
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
