@@ -7,7 +7,7 @@ Simple Python script to connect to Google Drive API.
 1. Create `.env` file from template:
 
 ```bash
-cp .env.example .env
+touch .env
 ```
 
 2. Edit `.env` and set your client secret filename:
